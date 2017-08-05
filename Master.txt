@@ -1,4 +1,7 @@
+<Version: 1.1>
+/data/test.zip https://wordpress.org/latest.zip
+<End of Version>
 
-<Version: 1.02>
+<Version: 1.2>
 /data/Map002.json https://raw.githubusercontent.com/JediBacon72/GameUpdater/master/Map001.json
 <End of Version>
