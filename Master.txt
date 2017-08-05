@@ -1,9 +1,4 @@
 
-<Version: 0.6.1>
-/data/test.zip https://wordpress.org/latest.zip
-<End of Version>
-
-
 <Version: 0.6.2>
 /data/Map002.json https://raw.githubusercontent.com/JediBacon72/GameUpdater/master/Map001.json
 /img/SumRndmDde/auto-update/Background.png http://i.imgur.com/n38V46q.jpg
