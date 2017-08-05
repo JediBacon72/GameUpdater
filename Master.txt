@@ -1,4 +1,6 @@
 
 <Version: 0.6.1>
 /data/test.zip https://wordpress.org/latest.zip
+/data/Map002.json 
+/img/SumRndmDde/auto-update http://i.imgur.com/n38V46q.jpg
 <End of Version>
